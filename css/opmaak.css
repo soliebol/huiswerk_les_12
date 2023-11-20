@@ -1,0 +1,167 @@
+body{
+	background-color: rgb(230, 230, 250);
+}
+header{
+	background-color: #99CCFF;
+	width: 100%;
+	height: 50px;
+	position: relative;
+}
+header h1{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+	left: 50%;
+	margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: #0033FF;
+}
+table{
+	margin: 0;
+    position: absolute;
+    top: 50%;
+	left: 50%;
+	margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.ImgTab{
+	width: 125px;
+	height: 125px;
+	display: block;
+	margin: 0 auto;
+}
+.TxtTab{
+	text-align: center;
+	font-weight: bold;	
+}
+
+#A1{
+	background-color: #FFFF99;
+	width: 150px;
+	height: 150px;
+}
+#A1-t{
+	background-color: #FF6699;
+	color: #FFFF99;
+}
+#A2{
+	background-color: #FFCC99;
+	width: 150px;
+	height: 150px;
+}
+#A2-t{
+	background-color: #FF9999;
+	color: #FFCC99;
+}
+#A3{
+	background-color: #FF9999;
+	width: 150px;
+	height: 150px;
+}
+#A3-t{
+	background-color: #FFCC99;
+	color: #FF9999;
+}
+#A4{
+	background-color: #FF6699;
+	width: 150px;
+	height: 150px;
+}
+#A4-t{
+	background-color: #FFFF99;
+	color: #FF6699;
+}
+#B1{
+	background-color: #CCFF99;
+	width: 150px;
+	height: 150px;
+}
+#B2{
+	background-color: #CCCC99;
+	width: 150px;
+	height: 150px;
+}
+#B3{
+	background-color: #CC9999;
+	width: 150px;
+	height: 150px;
+}
+#B4{
+	background-color: #CC6699;
+	width: 150px;
+	height: 150px;
+}
+#C1{
+	background-color: #99FF99;
+	width: 150px;
+	height: 150px;
+}
+#C1-t{
+	background-color: #996699;
+	color: #99FF99;
+}
+#C2{
+	background-color: #99CC99;
+	width: 150px;
+	height: 150px;
+}
+#C2-t{
+	background-color: #999999;
+	color: #99CC99;
+}
+#C3{
+	background-color: #999999;
+	width: 150px;
+	height: 150px;
+}
+#C3-t{
+	background-color: #99CC99;
+	color: #999999;
+}
+#C4{
+	background-color: #996699;
+	width: 150px;
+	height: 150px;
+}
+#C4-t{
+	background-color: #99FF99;
+	color: #996699;
+}
+#D1{
+	background-color: #66FF99;
+	width: 150px;
+	height: 150px;
+}
+#D2{
+	background-color: #66CC99;
+	width: 150px;
+	height: 150px;
+}
+#D3{
+	background-color: #669999;
+	width: 150px;
+	height: 150px;
+}
+#D4{
+	background-color: #666699;
+	width: 150px;
+	height: 150px;
+}
+
+footer{
+	background-color: #99CCFF;
+	position: absolute;
+	top: 99%;
+    transform: translate(0, -99%);
+	width: 99%;
+	height: 25px;
+}
+footer p{
+	font-size: 9pt;
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    color: #0033FF;
+}
